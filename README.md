@@ -1,1 +1,1 @@
-# email
+# email spam detection project
